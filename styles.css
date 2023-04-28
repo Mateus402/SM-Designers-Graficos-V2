@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Inconsolata:wght@200&family=Indie+Flower&family=Teko&display=swap');
+
+body {
+    background: linear-gradient(180deg, black 0%, rgb(176, 245, 245) 0%, rgb(165, 199, 236), rgb(217, 222, 228) );
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 15%;
+}
+
+.apresentacao-conteudo {
+    text-align: center;
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.apresentacao-conteudo-titulo {
+    font-size: 36px;
+    font-family: 'Castoro Titling', cursive;
+}
+
+.apresentacao-conteudo-sobre {
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    text-align: left;
+}
+
+.apresentacao-conteudo-acesso {
+    font-family: 'Teko', sans-serif;
+}
+
+.apresentacao-conteudo-div {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+}
+
+.apresentacao-links {
+    display: flex;
+    justify-content: center;
+
+}
+
+.apresentacao-links-link {
+    font-family: 'Indie Flower', cursive;
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 30px;
+    padding: 0 20%;
+}
+
+.destaque {
+    color: darkblue;
+}
