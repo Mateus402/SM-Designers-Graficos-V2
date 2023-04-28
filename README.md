@@ -1,7 +1,7 @@
 # SM-Designers-Graficos-V2
 
 
-[Captura de tela da imagem do site SM Designers](https://user-images.githubusercontent.com/112894988/235155652-4380d19c-ac77-4b58-9a9c-182426db46b6.jpeg)
+![IMG site SM Designer](https://user-images.githubusercontent.com/112894988/235158922-615cfe11-aa2b-4598-a79d-f2c2fe3f111f.png)
 
 Nova versão do site da SM Designers Gráficos.
 Essa nova versão tem como objetivo praticar os conhecimentos sobre HTML5 e CSS3 e dar uma nova cara ao site V1.
