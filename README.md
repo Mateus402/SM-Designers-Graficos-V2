@@ -22,3 +22,8 @@ Essa nova versão tem como objetivo praticar os conhecimentos sobre HTML5 e CSS3
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 [Acesse aqui o site](https://mateus402.github.io/SM-Designers-Graficos-V2/)
+
+## 📩 Contato
+
+* mateus_stangherlins@hotmail.com
+* +55 (46) 9 9123-5798
